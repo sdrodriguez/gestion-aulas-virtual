@@ -1,0 +1,9 @@
+rootProject.name = 'gestion-aulas-virtual'
+
+include 'aul-virtual-utils-commons'
+include 'aul-virtual-users-api'
+include 'aul-virtual-oauth'
+include 'aul-virtual-users-commons'
+include 'aul-virtual-courses-api'
+include 'aul-virtual-students-api'
+include 'aul-virtual-teachers-api'
