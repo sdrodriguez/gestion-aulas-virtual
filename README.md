@@ -1,4 +1,5 @@
-## PRUEBARUEBA
+#Prueba Henry: Walter esto esta mal escrito "PRUEBARUEBA"
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/sdrodriguez/gestion-aulas-virtual/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
